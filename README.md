@@ -1,6 +1,7 @@
 # DomainATM: Domain Adaptation Toolbox for Medical Data Analysis
 
-**License:** MIT  
+**License:** Apache License - 2.0
+  
 **Language:** MATLAB  
 
 More details can be found in the file "**manual.pdf**". Note, for Mac, please use the DomainATM_Mac.zip
